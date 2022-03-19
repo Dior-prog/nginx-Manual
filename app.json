@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "vmess or vless",
+  "description": "vmess or vless",
   "keywords": [
-    "vmess or vles"
+    "vmess or vless"
   ],
   "env": {
     "PROTOCOL": {
